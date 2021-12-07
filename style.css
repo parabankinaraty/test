@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    width: 50px;
+    font-family: 'Ubuntu', sans-serif;
+    overflow: hidden;
+    color: red;
+    background-color: royalblue;
+}
